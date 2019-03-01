@@ -1,0 +1,25 @@
+{
+"products":
+ [
+  {"id":1,"name":"Leadbeateri's ground hornbill","category":"Puce"},
+  {"id":2,"name":"Bear, grizzly","category":"Mauv"},
+  {"id":3,"name":"Ovenbird","category":"Puce"},
+  {"id":4,"name":"Hornbill, leadbeateri's ground","category":"Violet"},
+  {"id":5,"name":"Springbuck","category":"Mauv"},
+  {"id":6,"name":"Flycatcher, tyrant","category":"Khaki"},
+  {"id":7,"name":"Bee-eater, nubian","category":"Crimson"}, 
+  {"id":8,"name":"Red-tailed hawk","category":"Orange"},
+  {"id":9,"name":"Nile crocodile","category":"Goldenrod"},
+  {"id":10,"name":"Ringtail, common","category":"Yellow"},
+  {"id":11,"name":"Adouri (unidentified)","category":"Goldenrod"},
+  {"id":12,"name":"Gazelle, grant's","category":"Khaki"},
+  {"id":13,"name":"African darter","category":"Violet"},
+  {"id":14,"name":"Heron, goliath","category":"Crimson"},
+  {"id":15,"name":"Coke's hartebeest","category":"Violet"},
+  {"id":16,"name":"Frilled lizard","category":"Blue"},
+  {"id":17,"name":"Tarantula, salmon pink bird eater","category":"Purple"},
+  {"id":18,"name":"Skimmer, four-spotted","category":"Green"},
+  {"id":19,"name":"Waxbill, violet-eared","category":"Green"},
+  {"id":20,"name":"Rhinoceros, white","category":"Mauv"}
+ ]
+}
